@@ -1,0 +1,2 @@
+Enregistrement auto du MdP :
+git config --global credential.helper store
