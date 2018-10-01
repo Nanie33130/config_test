@@ -1,2 +1,2 @@
-Enregistrement auto du MdP :
+Enregistrement auto du MdP (taper à la racine) :
 git config --global credential.helper store
